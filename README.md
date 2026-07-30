@@ -16,7 +16,8 @@ An interactive data visualization dashboard that tracks Winter Olympics medal ra
 
 ## Overview
 
-The dashboard visualizes how nations' medal rankings have changed over time using a **bump chart** — a line chart where the Y-axis represents rank (rank 1 at the top) and the X-axis represents each Olympic Games. Each nation is represented by a colored line with interactive flags in the legend.
+The dashboard visualizes how nations' medal rankings have changed over time using a **bump chart** — a line chart where the Y-axis represents rank (rank 1 at the top) and the X-axis represents each Olympic Games. 
+Each nation is represented by a colored line with interactive flags in the legend.
 
 The visualization highlights several compelling narratives:
 
